@@ -1,2 +1,0 @@
-# max.github.io
-Site
